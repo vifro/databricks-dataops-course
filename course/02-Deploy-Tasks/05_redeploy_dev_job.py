@@ -56,4 +56,8 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC Answer here...
+# MAGIC Since the job is part of the commit hash. Each Job ID gets the name from the branch ID, so a new branch will automatically create a new job. This way, we keep changes attached to each branch & PR. Understanding when a job has changed in prod.   
+
+# COMMAND ----------
+
+
