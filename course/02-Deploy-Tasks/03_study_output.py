@@ -16,4 +16,13 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC Answer here...
+# MAGIC * transport.victorleth_featgh1233221faraw_65ff812f_revenue.borough_population
+# MAGIC * transport.victorleth_featgh1233221faraw_65ff812f_revenue.revenue_by_borough
+# MAGIC * transport.victorleth_featgh1233221faraw_65ff812f_revenue.revenue_by_tripmonth
+# MAGIC * transport.victorleth_featgh1233221faraw_65ff812f_revenue.revenue_by_tripmonth
+# MAGIC
+# MAGIC
+
+# COMMAND ----------
+
+

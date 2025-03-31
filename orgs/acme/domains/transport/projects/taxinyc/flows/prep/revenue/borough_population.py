@@ -140,3 +140,7 @@ print("borough_population_tbl:" + repr(borough_population_tbl))
 #     .format("delta")
 #     .saveAsTable(borough_population_tbl)
 # )
+
+# COMMAND ----------
+
+

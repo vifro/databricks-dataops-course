@@ -47,7 +47,8 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC Answer here...
+# MAGIC * Job: Definition (Template) of Task with things like notebook, cluster configs, etc.
+# MAGIC * Job Run: Individual Execution of a Job.
 
 # COMMAND ----------
 
@@ -60,4 +61,8 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC Answer here...
+# MAGIC * transport_taxinyc_prep_test_victorleth_featgh1233221faraw_65ff812f
+
+# COMMAND ----------
+
+
